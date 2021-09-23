@@ -8,3 +8,6 @@ São uma boa maneira de formatar strings, valores monetários, datas e outros da
 
 ### [(ngModel)] 
 é a sintaxe de ligação de dados bidirecional do Angular.
+
+### HTML
+O *ngFor é de Angular repetidor directiva. Ele repete o elemento do host para cada elemento
