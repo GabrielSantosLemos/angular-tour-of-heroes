@@ -14,3 +14,8 @@ O *ngFor é de Angular repetidor directiva. Ele repete o elemento do host para c
 
 ### @Input()
 Envia dados para um componente filho
+
+
+### Adicionar serviços
+
+Os componentes não devem buscar ou salvar dados diretamente e certamente não devem apresentar dados falsos intencionalmente. Eles devem se concentrar em apresentar dados e delegar acesso a dados a um serviço.
