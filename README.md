@@ -11,3 +11,6 @@ São uma boa maneira de formatar strings, valores monetários, datas e outros da
 
 ### HTML
 O *ngFor é de Angular repetidor directiva. Ele repete o elemento do host para cada elemento
+
+### @Input()
+Envia dados para um componente filho
